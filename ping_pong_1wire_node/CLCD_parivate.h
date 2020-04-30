@@ -1,0 +1,2 @@
+#define FOUR_BITS_MODE   0
+#define EIGHT_BITS_MODE  1
